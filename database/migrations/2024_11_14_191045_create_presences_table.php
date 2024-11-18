@@ -20,6 +20,10 @@ return new class extends Migration
             $table->softDeletes();
         });
     }
+<<<<<<< HEAD
+=======
+
+>>>>>>> e3c12287dcd5d0ed769cb8ee2dda464cad5130fc
     /**
      * Reverse the migrations.
      */
